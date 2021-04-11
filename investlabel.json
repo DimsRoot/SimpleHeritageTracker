@@ -1,0 +1,29 @@
+{
+  "Earning1": {
+    "Label": "Earning1Label"
+  },
+  "Investment1": {
+    "Label": "Investment1Label", 
+    "OpeningDate" : "01-2018"
+  },
+  "Investment2": {
+    "Label": "Investment2Label", 
+    "OpeningDate" : "01-2018"
+  },
+  "Investment3": {
+    "Label": "Investment3Label",
+    "OpeningDate" : "07-2019"
+  },
+  "Investment4": {
+    "Label": "Investment4Label",
+    "OpeningDate" : "09-2019"
+  },
+  "Investment5": {
+    "Label": "Investment5Label",
+    "OpeningDate" : "06-2018"
+  },
+  "Investment6": {
+    "Label": "Investment6Label",
+    "OpeningDate" : "12-2018"
+  }
+}
